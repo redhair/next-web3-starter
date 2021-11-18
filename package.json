@@ -1,6 +1,5 @@
 {
-  "name": "my-app",
-  "private": true,
+  "name": "next-web3-starter",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
